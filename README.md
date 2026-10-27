@@ -30,11 +30,11 @@ These materials include worked examples used during lectures and recitations. Se
 - [ ] Confirm the release schedule for the included recitation slides.
 - [ ] Prepare a student version of session 7; the quiz preparation package is excluded.
 - [ ] Add session 12 when its materials are available.
-- [x] Create a private GitHub repository.
+- [x] Publish a public GitHub repository for student access.
 
 ## Repository
 
-[NathanSauldubois/cpp-financial-computing-fall-2026-students](https://github.com/NathanSauldubois/cpp-financial-computing-fall-2026-students) is private. The local `origin` remote points to this repository.
+[NathanSauldubois/cpp-financial-computing-fall-2026-students](https://github.com/NathanSauldubois/cpp-financial-computing-fall-2026-students) is public. Course materials can be viewed and downloaded without signing in. The local `origin` remote points to this repository.
 
 For future updates, commit the reviewed changes and run:
 
