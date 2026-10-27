@@ -1,0 +1,48 @@
+# Liste explicite des fichiers autorisés pour diffusion.
+# Ajouter un support ici seulement après vérification.
+*
+!/.gitignore
+!/README.md
+!/Seance 1/
+!/Seance 10/
+!/Seance 11/
+!/Seance 13/
+!/Seance 2/
+!/Seance 3/
+!/Seance 4/
+!/Seance 5/
+!/Seance 6/
+!/Seance 8/
+!/Seance 9/
+!/Seance 1/Deck 0 - Opening and Diagnostic/
+!/Seance 1/Deck 1 - From a Financial Problem to Cpp Code/
+!/Seance 1/Deck 2 - Cpp Survival Kit and Interactive Exercises/
+!/Seance 1/Deck 3 - Git and GitHub/
+!/Seance 1/Deck 4 - Cpp Syntax Practice/
+!/Seance 1/Deck 5 - Easy Coding Problems/
+!/Seance 10/Deck 1 - Nonlinear Solvers and Implied Volatility/
+!/Seance 11/Deck 1 - Monte Carlo and Path-Dependent Options/
+!/Seance 13/Deck 1 - Historical and Market Data with libcurl/
+!/Seance 2/Deck 1 - Structured Programming and CRR Code Lab/
+!/Seance 3/Deck 1 - Pointers Function Pointers and Generic CRR/
+!/Seance 4/Deck 1 - Object-Oriented Programming and Binomial Model/
+!/Seance 5/Deck 1 - Dynamic Programming on Paths/
+!/Seance 6/Deck 1 - Subset and Knapsack Dynamic Programming/
+!/Seance 8/Deck 1 - Data Structures and American Option Pricing/
+!/Seance 9/Deck 1 - Class Templates and Binomial Lattices/
+!/Seance 1/Deck 0 - Opening and Diagnostic/Deck_0_Opening_Diagnostic.pdf
+!/Seance 1/Deck 1 - From a Financial Problem to Cpp Code/Deck_1_Financial_Problem_to_Cpp.pdf
+!/Seance 1/Deck 2 - Cpp Survival Kit and Interactive Exercises/Deck_2_Cpp_Survival_Kit.pdf
+!/Seance 1/Deck 3 - Git and GitHub/Deck_3_Git_and_GitHub.pdf
+!/Seance 1/Deck 4 - Cpp Syntax Practice/Deck_4_Cpp_Syntax_Practice.pdf
+!/Seance 1/Deck 5 - Easy Coding Problems/Deck_5_Easy_Coding_Problems.pdf
+!/Seance 10/Deck 1 - Nonlinear Solvers and Implied Volatility/Deck_1_Nonlinear_Solvers_Implied_Volatility.pdf
+!/Seance 11/Deck 1 - Monte Carlo and Path-Dependent Options/Deck_1_Monte_Carlo_Path_Dependent_Options.pdf
+!/Seance 13/Deck 1 - Historical and Market Data with libcurl/Deck_1_Historical_Market_Data_libcurl.pdf
+!/Seance 2/Deck 1 - Structured Programming and CRR Code Lab/Deck_1_Structured_Programming_CRR_Code_Lab.pdf
+!/Seance 3/Deck 1 - Pointers Function Pointers and Generic CRR/Deck_1_Pointers_Function_Pointers_Generic_CRR.pdf
+!/Seance 4/Deck 1 - Object-Oriented Programming and Binomial Model/Deck_1_Object_Oriented_Binomial_Model.pdf
+!/Seance 5/Deck 1 - Dynamic Programming on Paths/Deck_1_Dynamic_Programming_on_Paths.pdf
+!/Seance 6/Deck 1 - Subset and Knapsack Dynamic Programming/Deck_1_Subset_and_Knapsack_DP.pdf
+!/Seance 8/Deck 1 - Data Structures and American Option Pricing/Deck_1_Data_Structures_American_Options.pdf
+!/Seance 9/Deck 1 - Class Templates and Binomial Lattices/Deck_1_Class_Templates_Binomial_Lattices.pdf
